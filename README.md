@@ -1,5 +1,5 @@
 <!-- <h1>Learning Git</h1> -->
-# Heading 1
+# Learn Git
 ## Heading 2
 this is paragraph text
 
